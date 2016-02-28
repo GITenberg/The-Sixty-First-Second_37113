@@ -1,0 +1,35 @@
+_repo: The-Sixty-First-Second_37113
+contributor:
+  illustrator:
+    agent_name: Wenzell, A. B. (Albert Beck)
+    aliases:
+    - Wenzel, A. B. (Albert Beck)
+    - Wenzell, Albert B. (Albert Beck)
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '7859'
+    url: http://www.gutenberg.org/2009/agents/7859
+creator:
+  author:
+    agent_name: Johnson, Owen
+    alias: Johnson, Owen McMahon
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '4502'
+    url: http://www.gutenberg.org/2009/agents/4502
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
+description: ''
+gutenberg_issued: '2015-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+title: The Sixty-First Second
+url: http://www.gutenberg.org/ebooks/37113
