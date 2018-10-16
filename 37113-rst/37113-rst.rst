@@ -4,6 +4,7 @@
    :PG.Id: 37113
    :PG.Title: The Sixty-first Second
    :PG.Released: 2015-03-12
+   :PG.Reposted: 2016-05-06 text corrections applied
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
    :DC.Creator: Owen Johnson
@@ -4492,7 +4493,7 @@ phase of national life.  We will become honest
 through the purifying process of another generation.
 Honesty, you see, has this one great advantage over
 corruption—it is the goal of corruption.  Those
-who acquire, wash to retain, to resist those who in
+who acquire, wish to retain, to resist those who in
 turn wish to graft from them.  Stealing was an
 attribute of distinction, until men came to live together.
 The next generation will purify and reorganize."
